@@ -43,7 +43,7 @@
 
 
 ### Результаты:  
-[Jupyter Notebook](https://github.com/al-math/sf_data_science/tree/main/project_0_template/game_book.ipynb)
+[Jupyter Notebook](https://github.com/al-math/sf_data_science/tree/main/project_0_template/game.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/project_0_template/README.md#оглавление)
 
