@@ -11,12 +11,22 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
-
+    lbrd = 1 # левая граница интервала
+    rbrd = 100 # правая граница интервала
+    brd = 50 # середина интервала
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
+        if number == brd:
             break # выход из цикла, если угадали
+        elif number < brd:
+            rbrd = brd
+        else:
+            lbrd = brd
+        # рассматриваем частный случай, когда деление интервала не даёт нового значения
+        if brd == (lbrd + rbrd)//2:
+            brd+=1
+        else:
+            brd = (lbrd + rbrd)//2
     return(count)
 
 def score_game(random_predict) -> int:
