@@ -1,7 +1,7 @@
 import numpy as np
 
-def random_predict(number:int=1) -> int:
-    """Рандомно угадываем число
+def half_predict(number:int=1) -> int:
+    """Угадываем число методом половинного деления
 
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
@@ -19,9 +19,9 @@ def random_predict(number:int=1) -> int:
         if number == brd:
             break # выход из цикла, если угадали
         elif number < brd:
-            rbrd = brd
+            rbrd = brd # смещаем правую границу
         else:
-            lbrd = brd
+            lbrd = brd # смещаем левую границу
         # рассматриваем частный случай, когда деление интервала не даёт нового значения
         if brd == (lbrd + rbrd)//2:
             brd+=1
@@ -53,4 +53,4 @@ def score_game(random_predict) -> int:
 
 # RUN
 if __name__ == '__main__':
-    score_game(random_predict)
+    score_game(half_predict)
