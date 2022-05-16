@@ -13,6 +13,8 @@
 
 Требования к версиям модулей [здесь](https://github.com/al-math/sf_data_science/tree/main/project_1/requirements.txt)
 
+Сохранённые графики [здесь](https://github.com/al-math/sf_data_science/tree/main/project_1/plots)
+
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
