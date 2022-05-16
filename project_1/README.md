@@ -11,6 +11,8 @@
 ### Описание проекта    
 Попробовать свои силы в реальном Data Science-проекте: решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter.
 
+Требования к версиям модулей [здесь](https://github.com/al-math/sf_data_science/tree/main/project_1/requirements.txt)
+
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
@@ -19,6 +21,7 @@
 
 ### Краткая информация о данных
 Основные данные - выгрузка из базы hh.ru [данные](https://disk.yandex.ru/d/ruUbNwMzCRX8Lw)
+
 Вспомогательные данные - [история курсов валют](https://github.com/al-math/sf_data_science/tree/main/project_1/data/ExchangeRates.csv)
   
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/project_1/README.md#Оглавление)
