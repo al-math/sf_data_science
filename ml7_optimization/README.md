@@ -34,7 +34,7 @@
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/ml7_optimization/README.md#Оглавление)
 
 ### Результаты:  
-[Jupyter Notebook](https://github.com/al-math/sf_data_science/tree/main/ml7_optimization/ml7_practice)
+[Jupyter Notebook](https://github.com/al-math/sf_data_science/tree/main/ml7_optimization/ml7_practice.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/al-math/sf_data_science/tree/main/ml7_optimization/README.md#Оглавление)
 
