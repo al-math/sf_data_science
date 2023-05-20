@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Краткая-информация-о-данных-(интерпретация-исполнителя))  
+[3. Краткая информация о данных](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Этапы-работы-над-проектом)  
 [5. Результаты](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Результаты)    
 [6. Выводы](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict/README.md#Выводы) 
@@ -21,7 +21,7 @@
 ### Какой кейс решаем?    
 Построение регрессионной модели прогноза цены, выгрузка модели и сопуствующих данных для деплоя, оформление модели в виде сервиса, упаковка сервиса в docker-образ.
 
-### Краткая информация о данных (интерпретация исполнителя)
+### Краткая информация о данных
 1. status - статус объекта (уникальных значений 160)
 2. private pool - наличие индивидуального бассейна (уникальных значений 2: nan, 'Yes')
 3. propertyType - описание типа объекта в свободной форме (уникальных значений 1281)
