@@ -7,4 +7,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. Анализ вакансий из HeadHunter](https://github.com/al-math/sf_data_science/tree/main/project_1)
 * [Практика ML-7. Подбор гиперпараметров](https://github.com/al-math/sf_data_science/tree/main/ml7_optimization)
 * [Проект ML. Задача классификации](https://github.com/al-math/sf_data_science/tree/main/Project_4_ML)
-* [Проект 8. Задача регрессии: прогнозирование цен объектов недвижимости](https://github.com/al-math/sf_data_science/tree/main/project8_price_predict)
+* [Проект 8. Задача регрессии: прогнозирование цен объектов недвижимости](https://github.com/al-math/sf_data_science/tree/main/project_8_price_predict)
